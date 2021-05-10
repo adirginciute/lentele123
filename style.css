@@ -1,0 +1,24 @@
+table, th, td {
+  margin: auto;
+  border: 1px solid black;
+  border-collapse: collapse;
+  width: 55%;
+  text-align: left;
+  padding: 6px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.orange {
+background: orange;
+color: white;
+}
+
+.blue {
+  background: blue;
+  color: white;
+}
+
+.green {
+  background: green;
+  color: white;
+}
